@@ -4,7 +4,7 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: /images/b.png
+  logo_image: 
   logo_width: 200
 
 menu_settings:
@@ -14,7 +14,7 @@ menu_settings:
     - title: 'Blog'
       url: '/blog/'
     - title: 'About'
-      url: '/about'
+      url: '/about/'
 
 grid_settings:
   overlay_opacity: 0.8
