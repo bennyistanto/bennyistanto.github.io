@@ -23,29 +23,35 @@ Lately, I have been working on the process of transforming satellite-based data 
 
 #### Undergraduate degree
 
-**University**: [Bogor Agricultural University](https://ipb.ac.id/), Bogor, Indonesia (09/2001 - 03/2006)
-**Faculty**: Mathematics and Natural Science
-**Department**: Geophysics and Meteorology
-**Laboratory**: Meteorology and Atmospheric Pollution
-**Supervisors**:
-- [Idung Risdiyanto](https://scholar.google.co.id/citations?hl=id&user=WBIaIyYAAAAJ) (Bogor Agricultural University)
-- [M. Rokhis Khomarudin](https://scholar.google.com/citations?hl=en&user=RA5YWWQAAAAJ) (Indonesian National Institute of Aeronautics and Spaces)
-**Thesis**: Software development to determine the Canadian Forest Fire Weather Index System using remote sensing satellite. (in Bahasa Indonesia)
-**Source**: [IPB](http://repository.ipb.ac.id/handle/123456789/47915) Scientific Repository 
+| Category        | Description          |
+|:-------------|:------------------|
+| **University**           | [Bogor Agricultural University](https://ipb.ac.id/) |
+| **Faculty** | Mathematics and Natural Science   |
+| **Laboratory**           | Meteorology and Atmospheric Pollution      |
+| **Supervisors**           | [Idung Risdiyanto](https://scholar.google.co.id/citations?hl=id&user=WBIaIyYAAAAJ) (Bogor Agricultural University) and [M. Rokhis Khomarudin](https://scholar.google.com/citations?hl=en&user=RA5YWWQAAAAJ) (Indonesian National Institute of Aeronautics and Spaces) |
+| **Thesis**           | Software development to determine the Canadian Forest Fire Weather Index System using remote sensing satellite. (in Bahasa Indonesia)      |
+| **Source**           | [IPB](http://repository.ipb.ac.id/handle/123456789/47915) Scientific Repository      |
+| **Year**           | 09/2001 - 03/2006      |
 
 
 ### Awards
 
 1. **Jacub Rais award**
+  
   Indonesian Society for Remote Sensing, December 2006.
+  
   The Best Author in 15th Annual Scientific gathering and 4th Congress of Indonesian Society for Remote Sensing. Bandung, Indonesia. Paper entitled “Software development for forest fire early warning system in Indonesia”. (in Bahasa Indonesia) 
 
 2. **The WFP GIS Community Award**
+  
   World Food Programme, worldwide Rome, Italy. June 2015.
+  
   The Best GIS Officer in the 1st WFP GIS Community Award. 
 
 3. **Innovative New Solution to Hunger**
+  
   World Food Programme, worldwide Rome, Italy. January 2018.
+  
   VAMPIRE (Vulnerability Analysis Monitoring Platform for the Impact of Regional Events) won the [2017 WFP Innovation Challenge](https://medium.com/@WFPInnovation/wfp-staff-show-entrepreneurial-side-in-annual-competition-be03924215). 
 
 
@@ -71,6 +77,7 @@ Lately, I have been working on the process of transforming satellite-based data 
 ## Contact.
 
 Email: benny@istan.to
+
 Website: https://benny.istan.to
 
 Currently living in Bogor, Indonesia
