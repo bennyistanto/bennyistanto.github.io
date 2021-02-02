@@ -3,8 +3,9 @@ layout: default
 ---
 ![BI](/assets/img/bi.png)
 
-# Hi! my name is Benny Istanto
 
+
+## Hi! my name is Benny Istanto
 
 I am a geospatial consultant based in [Bogor](https://en.wikipedia.org/wiki/Bogor), Indonesia. I create maps, play with spatial data and satellite imagery; listening to Iwan Fals and MR.BIG; pencak silat, climbing, cycling, and drawing.
 
@@ -34,25 +35,26 @@ Lately, I have been working on the process of transforming satellite-based data 
 | **Year**           | 09/2001 - 03/2006      |
 
 
+
 ### Awards
 
 1. **Jacub Rais award**
   
-  Indonesian Society for Remote Sensing, December 2006.
+    Indonesian Society for Remote Sensing, December 2006.
   
-  The Best Author in 15th Annual Scientific gathering and 4th Congress of Indonesian Society for Remote Sensing. Bandung, Indonesia. Paper entitled “Software development for forest fire early warning system in Indonesia”. (in Bahasa Indonesia) 
+    The Best Author in 15th Annual Scientific gathering and 4th Congress of Indonesian Society for Remote Sensing. Bandung, Indonesia. Paper entitled “Software development for forest fire early warning system in Indonesia”. (in Bahasa Indonesia) 
 
 2. **The WFP GIS Community Award**
   
-  World Food Programme, worldwide Rome, Italy. June 2015.
+    World Food Programme, worldwide Rome, Italy. June 2015.
   
-  The Best GIS Officer in the 1st WFP GIS Community Award. 
+    The Best GIS Officer in the 1st WFP GIS Community Award. 
 
 3. **Innovative New Solution to Hunger**
   
-  World Food Programme, worldwide Rome, Italy. January 2018.
+    World Food Programme, worldwide Rome, Italy. January 2018.
   
-  VAMPIRE (Vulnerability Analysis Monitoring Platform for the Impact of Regional Events) won the [2017 WFP Innovation Challenge](https://medium.com/@WFPInnovation/wfp-staff-show-entrepreneurial-side-in-annual-competition-be03924215). 
+    VAMPIRE (Vulnerability Analysis Monitoring Platform for the Impact of Regional Events) won the [2017 WFP Innovation Challenge](https://medium.com/@WFPInnovation/wfp-staff-show-entrepreneurial-side-in-annual-competition-be03924215). 
 
 
 
@@ -61,17 +63,26 @@ Lately, I have been working on the process of transforming satellite-based data 
 ### Domains.
 
 - Atmospheric science, agriculture meteorology and climatology
+
 - GIS, remote-sensing and agriculture related spatial modeling
+
 - Climate, geo-statistics and other scientific data processing 
+
 - Impact science, early-warning and anticipatory-action
+
 
 ### Tools.
 
 - ESRI ArcGIS Family: Desktop, Pro, Server, Online
+
 - FOSS4G: QGIS, GDAL/OGR, SAGA, CDO, NCO
+
 - Data Catalogue: Portal for ArcGIS, GeoNode
+
 - Google Earth Engine, bash, python, arcpy
+
 - Photoshop/GIMP and Illustrator/CorelDRAW/Inkscape
+
 
 
 ## Contact.
